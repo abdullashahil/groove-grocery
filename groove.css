@@ -1,0 +1,75 @@
+body{
+    background-image: url(https://kq-storage.s3.ap-south-1.amazonaws.com/Github/groove-bg%5B1%5D.png);
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0%;
+}
+
+h1{
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Poppins', sans-serif;
+}
+
+p{
+    text-align: center;
+}
+
+.but1{
+    border-color: transparent;
+    background-color: rgb(59,201,94);
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    border-radius: 5px;
+    font-size: medium;
+    padding: 15px;
+}
+div{
+    margin-top: 15%;
+}
+
+header{
+    background-color: black;
+    padding: 10px;
+}
+
+h2{
+    font-family:'Poppins', sans-serif;
+}
+
+table,thead,tr,th,td{
+    border-collapse:collapse;
+    border: 2px rgb(207, 206, 206) solid;
+    margin-left: 270px;
+    margin-top: -178px;
+}
+thead th{
+    padding: 20px;
+    background-color:#27ae60;
+    color: white;
+}
+
+.img2{
+    width: 100px;
+    height: 100px;
+}
+
+.p2{
+    font-size: 20px;
+}
+
+.btn2{
+    margin-top: 10px;
+}
+
+.but3{
+    background-color: #27ae60;
+    color: aliceblue;
+    border-color: transparent;
+    border-radius: 3px;
+}
+.hov:hover{
+    background-color: rgb(241, 241, 241);
+}
